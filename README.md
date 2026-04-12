@@ -32,9 +32,9 @@ To create a structured database that can support real-world business analysis su
 
 ## 💾 Files in This Project
 
-- [Create Database](project_1_database_setup/create_database.sql)
-- [Create Tables](project_1_database_setup/create_tables.sql)
-- [Insert Data](project_1_database_setup/insert_data.sql)
+- `create_database.sql` → Creates the database
+- `create_tables.sql` → Creates all tables
+- `insert_data.sql` → Inserts sample data
 
 ---
 
@@ -43,21 +43,23 @@ To create a structured database that can support real-world business analysis su
 ### 1. Database Created
 This shows the successful creation of the database.
 
-![Database Created](screenshots/database_created.png)
+![Database Creation](project_1_database_setup/screenshots/Create_Database.png)
 
 ---
 
 ### 2. Tables Created
 This shows the structure of all tables.
 
-![Tables Created](screenshots/tables_created.png)
+![Employees Table Created](project_1_database_setup/screenshots/Create_Table_Employees.png)
+![Sales Table Created](project_1_database_setup/screenshots/Create_Table_Sales.png)
+![Customers Table Created](project_1_database_setup/screenshots/Create_Table_Customers.png)
 
 ---
 
 ### 3. Sample Data Inserted
 This shows data inside the employees table.
 
-![Employees Data](screenshots/employees_table.png)
+![Inserted Employees Data](screenshots/employees_table.png)
 
 ---
 
