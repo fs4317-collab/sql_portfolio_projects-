@@ -32,9 +32,9 @@ To create a structured database that can support real-world business analysis su
 
 ## 💾 Files in This Project
 
-- `create_database.sql` → Creates the database
-- `create_tables.sql` → Creates all tables
-- `insert_data.sql` → Inserts sample data
+- [Create Database](project_1_database_setup/create_database.sql)
+- [Create Tables](project_1_database_setup/create_tables.sql)
+- [Insert Data](project_1_database_setup/insert_data.sql)
 
 ---
 
