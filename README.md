@@ -57,9 +57,11 @@ This shows the structure of all tables.
 ---
 
 ### 3. Sample Data Inserted
-This shows data inside the employees table.
+This shows data inside the employees, customers and sales table.
 
-![Inserted Employees Data](screenshots/employees_table.png)
+![Inserted Employees Data](project_1_database_setup/screenshots/Insert_Into_Employees.png)
+![Inserted Customers Data](project_1_database_setup/screenshots/Insert_Into_Customers.png)
+![Inserted Sales Data](project_1_database_setup/screenshots/Insert_Into_Sales.png)
 
 ---
 
