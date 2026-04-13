@@ -140,23 +140,23 @@ This project uses the existing database created in Project 1, which includes:
 
 ---
 
-- **Query Results (Region Sales)** → This shows sales performance by region.
-![Inserted Employees Data](project_1_database_setup/screenshots/Insert_Into_Employees.png)
+- **Query Results (Region Sales)** → This shows sales performance by region in descending order.
+![Inserted Employees Data](project_2_sales_analysis/screenshots/Total_Sales_Region_DESC.png)
 
 ---
 
 - **Query Results (Employee Ranking)** → This shows employee performance rankings.
-![Inserted Employees Data](project_1_database_setup/screenshots/Insert_Into_Employees.png)
+![Inserted Employees Data](project_2_sales_analysis/screenshots/Employees_Ranking.png)
 
 ---
 
-- **Query Results (Department Analysis)** → This shows sales grouped by department.
-![Inserted Employees Data](project_1_database_setup/screenshots/Insert_Into_Employees.png)
+- **Query Results (Department Analysis)** → This shows top performing departments in descending order.
+![Inserted Employees Data](project_2_sales_analysis/screenshots/Top_Sales_Departments.png)
 
 ---
 
-- **Query Results (Highest Performing Analysis)** → This shows top perfoming employees.
-![Inserted Employees Data](project_1_database_setup/screenshots/Insert_Into_Employees.png)
+- **Query Results (Highest Performing Analysis)** → This shows top perfoming employees in descending order.
+![Inserted Employees Data](project_2_sales_analysis/screenshots/Top_Performers.png)
 
 ---
 
