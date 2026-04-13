@@ -78,3 +78,86 @@ This database is used as the foundation for further projects including:
 - Sales analysis
 - Employee performance analysis
 - Customer behavior analysis
+
+
+# 📊 Project 2: Business Sales Analysis
+
+## 📌 Overview
+This project demonstrates SQL-based business sales analysis using a relational database. It focuses on extracting insights from sales data to understand performance across employees, departments, and regions.
+
+The analysis is built on an existing database structure created in Project 1 and uses real-world style queries to answer key business questions.
+
+---
+
+## 🎯 Objective
+To analyze business sales performance using SQL in order to identify trends, top-performing employees, departmental contributions, and regional revenue distribution.
+
+---
+
+## 🛠️ Tools Used
+- SQL (Structured Query Language)
+- MySQL
+
+---
+
+## 🧱 Dataset Structure
+This project uses the existing database created in Project 1, which includes:
+
+- **employees**
+  - employee_id (Primary Key)
+  - name
+  - department
+
+- **sales**
+  - sale_id (Primary Key)
+  - employee_id (Foreign Key)
+  - amount
+  - sale_date
+  - region
+
+---
+
+## 📁 Files in This Project
+
+- `01_sales_by_region.sql` → Analyzes revenue by geographic region  
+- `02_employee_sales_ranking.sql` → Ranks employees by total sales performance  
+- `03_sales_by_department.sql` → Analyzes sales performance by department  
+- `04_top_5_employees.sql` → Identifies top 5 highest-performing employees   
+
+---
+
+## 📊 Key Insights
+
+- Sales performance varies significantly across regions, indicating geographic differences in revenue generation.
+- A small group of employees contributes a large portion of total sales.
+- Certain departments consistently generate higher revenue than others.
+- Identifying top performers helps support performance evaluation and business decision-making.
+
+---
+
+## 📸 Screenshots
+
+---
+
+- **Query Results (Region Sales)** → This shows sales performance by region.
+![Inserted Employees Data](project_1_database_setup/screenshots/Insert_Into_Employees.png)
+
+---
+
+- **Query Results (Employee Ranking)** → This shows employee performance rankings.
+![Inserted Employees Data](project_1_database_setup/screenshots/Insert_Into_Employees.png)
+
+---
+
+- **Query Results (Department Analysis)** → This shows sales grouped by department.
+![Inserted Employees Data](project_1_database_setup/screenshots/Insert_Into_Employees.png)
+
+---
+
+- **Query Results (Highest Performing Analysis)** → This shows top perfoming employees.
+![Inserted Employees Data](project_1_database_setup/screenshots/Insert_Into_Employees.png)
+
+---
+
+## 🚀 Project Purpose
+This project was created to demonstrate practical SQL skills for data analyst and data engineering roles, focusing on business intelligence, reporting, and data-driven decision-making.
