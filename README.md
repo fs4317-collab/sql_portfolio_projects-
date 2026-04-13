@@ -32,9 +32,9 @@ To create a structured database that can support real-world business analysis su
 
 ## 💾 Files in This Project
 
-- `create_database.sql` → Creates the database
-- `create_tables.sql` → Creates all tables
-- `insert_data.sql` → Inserts sample data
+- [`create_database.sql`](project_1_database_setup/create_database.sql) → Creates the database
+- [`create_tables.sql`](project_1_database_setup/create_tables.sql) → Creates all tables
+- [`insert_data.sql`](project_1_database_setup/insert_data.sql) → Inserts sample data
 
 ---
 
@@ -120,10 +120,10 @@ This project uses the existing database created in Project 1, which includes:
 
 ## 📁 Files in This Project
 
-- `01_sales_by_region.sql` → Analyzes revenue by geographic region  
-- `02_employee_sales_ranking.sql` → Ranks employees by total sales performance  
-- `03_sales_by_department.sql` → Analyzes sales performance by department  
-- `04_top_5_employees.sql` → Identifies top 5 highest-performing employees   
+- [`01_sales_by_region.sql`](project_2_sales_analysis/01_sales_by_region.sql) → Analyzes revenue by geographic region  
+- [`02_employee_sales_ranking.sql`](project_2_sales_analysis/02_employee_sales_ranking.sql) → Ranks employees by total sales performance  
+- [`03_sales_by_department.sql`](project_2_sales_analysis/03_sales_by_department.sql) → Analyzes sales performance by department  
+- [`04_top_5_employees.sql`](project_2_sales_analysis/04_top_5_employees.sql) → Identifies top 5 highest-performing employees   
 
 ---
 
