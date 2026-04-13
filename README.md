@@ -79,6 +79,7 @@ This database is used as the foundation for further projects including:
 - Employee performance analysis
 - Customer behavior analysis
 
+----
 
 # 📊 Project 2: Business Sales Analysis
 
