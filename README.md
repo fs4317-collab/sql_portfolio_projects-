@@ -1,6 +1,6 @@
-# 📊 Project 1: Business Analytics Database Setup
+# Project 1: Business Analytics Database Setup
 
-## 📌 Overview
+## Overview
 This project demonstrates how to design and build a relational database for business analytics. It includes table creation, relationships, and sample data insertion for analysis.
 
 The database includes:
@@ -10,18 +10,18 @@ The database includes:
 
 ---
 
-## 🎯 Objective
+## Objective
 To create a structured database that can support real-world business analysis such as employee performance, sales trends, and customer insights.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - SQL (Structured Query Language)
 - MySQL
 
 ---
 
-## 🏗️ Database Structure
+## Database Structure
 
 ### Tables Created:
 - employees
@@ -30,7 +30,7 @@ To create a structured database that can support real-world business analysis su
 
 ---
 
-## 💾 Files in This Project
+## Files in This Project
 
 - [`create_database.sql`](project_1_database_setup/create_database.sql) → Creates the database
 - [`create_tables.sql`](project_1_database_setup/create_tables.sql) → Creates all tables
@@ -38,7 +38,7 @@ To create a structured database that can support real-world business analysis su
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### 1. Database Created
 This shows the successful creation of the database.
@@ -57,7 +57,7 @@ This shows the structure of all tables.
 ---
 
 ### 3. Sample Data Inserted
-This shows data inside the employees, customers and sales table.
+This shows data inside the employees, customers and sales tables.
 
 ![Inserted Employees Data](project_1_database_setup/screenshots/Insert_Into_Employees.png)
 ![Inserted Customers Data](project_1_database_setup/screenshots/Insert_Into_Customers.png)
@@ -65,7 +65,7 @@ This shows data inside the employees, customers and sales table.
 
 ---
 
-## 📊 Key Features
+## Key Features
 - Relational database design
 - Primary keys and foreign keys
 - Realistic business dataset
@@ -73,7 +73,7 @@ This shows data inside the employees, customers and sales table.
 
 ---
 
-## 🚀 Outcome
+## Outcome
 This database is used as the foundation for further projects including:
 - Sales analysis
 - Employee performance analysis
@@ -81,27 +81,27 @@ This database is used as the foundation for further projects including:
 
 ----
 
-# 📊 Project 2: Business Sales Analysis
+# Project 2: Business Sales Analysis
 
-## 📌 Overview
+## Overview
 This project demonstrates SQL-based business sales analysis using a relational database. It focuses on extracting insights from sales data to understand performance across employees, departments, and regions.
 
 The analysis is built on an existing database structure created in Project 1 and uses real-world style queries to answer key business questions.
 
 ---
 
-## 🎯 Objective
+## Objective
 To analyze business sales performance using SQL in order to identify trends, top-performing employees, departmental contributions, and regional revenue distribution.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - SQL (Structured Query Language)
 - MySQL
 
 ---
 
-## 🧱 Dataset Structure
+## Dataset Structure
 This project uses the existing database created in Project 1, which includes:
 
 - **employees**
@@ -118,7 +118,7 @@ This project uses the existing database created in Project 1, which includes:
 
 ---
 
-## 📁 Files in This Project
+## Files in This Project
 
 - [`01_sales_by_region.sql`](project_2_sales_analysis/01_sales_by_region.sql) → Analyzes revenue by geographic region  
 - [`02_employee_sales_ranking.sql`](project_2_sales_analysis/02_employee_sales_ranking.sql) → Ranks employees by total sales performance  
@@ -127,7 +127,7 @@ This project uses the existing database created in Project 1, which includes:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - Sales performance varies significantly across regions, indicating geographic differences in revenue generation.
 - A small group of employees contributes a large portion of total sales.
@@ -136,7 +136,7 @@ This project uses the existing database created in Project 1, which includes:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ---
 
