@@ -160,5 +160,5 @@ This project uses the existing database created in Project 1, which includes:
 
 ---
 
-## 🚀 Project Purpose
+## Project Purpose
 This project was created to demonstrate practical SQL skills for data analyst and data engineering roles, focusing on business intelligence, reporting, and data-driven decision-making.
