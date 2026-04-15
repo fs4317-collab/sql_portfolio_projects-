@@ -222,7 +222,10 @@ This project uses the existing database created in Project 1, which includes:
 
 ## Files in This Project
 
-[Under Construction]
+- [`01_customer_concentration_by_city.sql`](project_3_customer_analysis/01_customer_concetration_by_city.sql) → Customers geographic concentration  
+- [`02_regional_customer_revenue.sql`](project_3_customer_analysis/02_regional_customer_revenue.sql) → Regions generating the most revenue  
+- [`03_employees_driving_customer_revenue`](project_3_customer_analysis/03_employees_driving_customer_revenue.sql) → Revenue tied to customer transactions  
+- [`04_high_vs_low_engagement_by_city.sql`](project_3_customer_analysis/04_high_vs_low_engagement_by_city.sql) → Identifies top 5 highest-performing employees 
 
 ---
 
@@ -238,6 +241,24 @@ This project uses the existing database created in Project 1, which includes:
 
 ## 📸 Screenshots
 
-[Under Construction]
+- **Customer Distribution by City** → Counts the total number of customers in each city and orders them from highest to lowest to identify where the most customers are located.
 
+![Inserted Employees Data](project_3_customer_analysis/screenshots/Customers_Distribution_By_City.png)
+
+- **Total Sales by Region** → Calculates the total sales amount for each region and ranks them from highest to lowest to identify top-performing regions.
+
+![Inserted Customers Data](project_3_customer_analysis/screenshots/Customers_Top_Revenue.png)
+
+- **Employee Revenue Performance** → Calculates each employee’s total number of sales and total revenue generated, ranking them by highest revenue to evaluate performance.
+
+![Inserted Sales Data](project_3_customer_analysis/screenshots/Employee_Driven_Customer_Revenue.png)
+
+- **Customer Engagement by City** → Counts customers per city and categorizes each city as high or low engagement based on customer volume.
+
+![Inserted Sales Data](project_3_customer_analysis/screenshots/Customer_Engagement.png)
+
+---
+
+## Project Purpose
+This project aims to analyze customer distribution, sales performance, and regional revenue trends to uncover key business insights. It helps identify high-performing regions and employees while also evaluating customer engagement levels across different cities to support data-driven decision-making.
 
