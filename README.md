@@ -162,3 +162,82 @@ This project uses the existing database created in Project 1, which includes:
 
 ## Project Purpose
 This project was created to demonstrate practical SQL skills for data analyst and data engineering roles, focusing on business intelligence, reporting, and data-driven decision-making.
+
+---
+
+# 📊 Project 3: Customer Revenue Analysis
+
+---
+
+## 📌 Overview
+This project uses **MySQL** to analyze customer revenue data and identify key business insights such as top customers, total sales performance, and spending patterns.
+
+The database is structured using relational tables, and SQL queries are used to extract meaningful insights from raw transactional data.
+
+---
+
+## 🎯 Objective
+The main objectives of this project are:
+
+- Analyze customer revenue using SQL queries
+- Identify top customers based on total spending
+- Evaluate total sales performance
+- Group and segment customers by location and revenue
+- Practice real-world MySQL data analysis techniques
+
+---
+
+## 🛠️ Tools Used
+
+- SQL
+- MySQL
+
+---
+
+## Dataset Structure
+
+This project uses the existing database created in Project 1, which includes:
+
+### Customers Table
+- customer_id (Primary Key)
+- name
+- city
+- singup_date
+
+### Employees Table 
+- employee_id (Primary Key)
+- name
+- department
+- salary
+- hire_date
+
+### Sales Table
+- sale_id
+- employee_id (Foreign Key)
+- amount
+- sale_date
+- region
+
+---
+
+## Files in This Project
+
+[Under Construction]
+
+---
+
+## 📈 Key Insights
+
+- A small group of customers generates most of the revenue
+- Certain cities have significantly higher customer activity
+- Total revenue can be effectively segmented using SQL grouping
+- Business performance can be measured using simple aggregation queries
+- MySQL queries reveal patterns in customer spending behavior
+
+---
+
+## 📸 Screenshots
+
+[Under Construction]
+
+
