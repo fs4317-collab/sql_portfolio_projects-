@@ -4,8 +4,9 @@
 -- ============================================
 
 -- Description:
--- Where most customers are located
--- Geographic concentration (useful for marketing decisions)
+-- Who drives the most revenue
+-- Performance tied to customer transactions
+
 SELECT 
     e.name AS employee_name,
     COUNT(s.sale_id) AS total_sales,
